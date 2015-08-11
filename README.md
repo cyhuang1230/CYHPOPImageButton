@@ -47,11 +47,12 @@ let btn = CYHPOPImageButton(image: UIIMAGE_VARIABLE)
 view.addSubview(btn)
 ```
 
-### That's All!
+### 3. That's All!
 
 ## Author
 
-Hi! I'm Chien-Yu Huang, currently studying CS in National Chiao Tung University(NCTU;國立交通大學), Taiwan.
+Hi! I'm Chien-Yu Huang, currently studying CS in National Chiao Tung University (NCTU; 國立交通大學), Taiwan.
+
 This is my first open source project, feel free to contact me `bigexplorations+CYHPOPImageButton[at]gmail.com`! Thanks :)
 
 
