@@ -7,6 +7,7 @@ CYHPOPImageButton is a library written in Swift 2.0, offering you a cute, bouncy
 [![License](https://img.shields.io/cocoapods/l/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
 [![Platform](https://img.shields.io/cocoapods/p/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
 
+![DemoGif](https://raw.githubusercontent.com/cyhuang1230/cyhuang1230.github.io/master/CYHPOPImageButtonDemo.gif)
 
 ## Try it!
 
