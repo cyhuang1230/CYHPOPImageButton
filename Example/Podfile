@@ -2,11 +2,9 @@ source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
 target 'CYHPOPImageButton_Example', :exclusive => true do
-  pod "CYHPOPImageButton", :path => "../"
+	pod "CYHPOPImageButton", :git => "https://github.com/cyhuang1230/CYHPOPImageButton.git"
 end
 
 target 'CYHPOPImageButton_Tests', :exclusive => true do
-  pod "CYHPOPImageButton", :path => "../"
-
-  
+	pod "CYHPOPImageButton", :git => "https://github.com/cyhuang1230/CYHPOPImageButton.git"  
 end
