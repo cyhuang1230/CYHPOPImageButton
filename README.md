@@ -10,11 +10,11 @@ CYHPOPImageButton is a library written in Swift 2.0, offering you a cute, bouncy
 
 ![DemoGif](https://raw.githubusercontent.com/cyhuang1230/cyhuang1230.github.io/master/CYHPOPImageButtonDemo.gif)
 
+\* Icon credit: [Google Material icons](https://www.google.com/design/icons/)
+
 ## Try it!
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-Icon credit: [Google Material icons](https://www.google.com/design/icons/)
 
 ## Requirements
 
@@ -25,11 +25,6 @@ Icon credit: [Google Material icons](https://www.google.com/design/icons/)
 
 *CYHPOPImageButton* is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
-
-```ruby
-pod "CYHPOPImageButton"
-```
-or with latest update:
 
 ```ruby
 pod "CYHPOPImageButton", :git => "https://github.com/cyhuang1230/CYHPOPImageButton.git"
