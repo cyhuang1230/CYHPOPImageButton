@@ -37,15 +37,15 @@ pod "CYHPOPImageButton", :git => "https://github.com/cyhuang1230/CYHPOPImageButt
 
 
 ## Usage
-### 1. Import framework.
+### 1. Import framework
 ```swift
 import CYHPOPImageButton
 ```
 
-### 2. Add CYHPOPImageButton to your app.
+### 2. Add CYHPOPImageButton to your app
 Apart from a new initailizer`init(image: UIImage)`, *CYHPOPImageButton* works as same as *UIButton*.
 
-*CYHPOPImageButton* will accommodate itself to the size of the UIImage you provided.
+*CYHPOPImageButton* will accommodate itself to the size of the *UIImage* you provided.
 
 ```swift
 let btn = CYHPOPImageButton(image: UIIMAGE_VARIABLE)

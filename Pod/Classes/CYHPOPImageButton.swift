@@ -11,8 +11,8 @@ import pop
 
 public class CYHPOPImageButton: UIButton {
 	
-	let NAME_SHRINK_ANIMATION = "CYHPOPImageButton_animation";
-	let NAME_ENLARGE_ANIMATION = "CYHPOPImageButton_animation_normal";
+	let NAME_SHRINK_ANIMATION = "CYHPOPImageButton_animation_SHRINK";
+	let NAME_ENLARGE_ANIMATION = "CYHPOPImageButton_animation_ENLARGE";
 	
 	public init(image: UIImage) {
 		super.init(frame: CGRectMake(0, 0, image.size.width, image.size.height));
