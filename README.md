@@ -6,9 +6,10 @@ CYHPOPImageButton is a library written in Swift 2.0, offering you a cute, bouncy
 [![Version](https://img.shields.io/cocoapods/v/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
 [![License](https://img.shields.io/cocoapods/l/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
 [![Platform](https://img.shields.io/cocoapods/p/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
+[![Platform](https://img.shields.io/badge/Published-08%2F12%2F15-red.svg?style=flat)](https://github.com/cyhuang1230/CYHPOPImageButton)
 
 [![GitHub](https://img.shields.io/badge/GitHub-cyhuang1230-blue.svg?style=flat)](http://cyhuang1230.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chuen--Yu%20Huang-blue.svg?style=flat)](https://tw.linkedin.com/in/cyhuang1230)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chien--Yu%20Huang-blue.svg?style=flat)](https://tw.linkedin.com/in/cyhuang1230)
 [![Email](https://img.shields.io/badge/Email-denny.cyhuang1230%40gmail.com-blue.svg)](mailto:denny.cyhuang1230+CYHPOPImageButton@gmail.com?SUBJECT=[CYHPOPImageButton])
 
 ![DemoGif](https://raw.githubusercontent.com/cyhuang1230/cyhuang1230.github.io/master/CYHPOPImageButtonDemo.gif)
@@ -59,9 +60,14 @@ view.addSubview(btn)
 
 ## Author
 
+[![GitHub](https://img.shields.io/badge/GitHub-cyhuang1230-blue.svg?style=flat)](http://cyhuang1230.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chien--Yu%20Huang-blue.svg?style=flat)](https://tw.linkedin.com/in/cyhuang1230)
+[![Email](https://img.shields.io/badge/Email-denny.cyhuang1230%40gmail.com-blue.svg)](mailto:denny.cyhuang1230+CYHPOPImageButton@gmail.com?SUBJECT=[CYHPOPImageButton])
+
 Hi! I'm Chien-Yu Huang, currently studying CS in National Chiao Tung University (NCTU; 國立交通大學), Taiwan.
 
 This is my first open source project, feel free to contact me at `denny.cyhuang1230[at]gmail.com`! Thanks :)
+
 
 
 ## License
