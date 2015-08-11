@@ -7,12 +7,17 @@ CYHPOPImageButton is a library written in Swift 2.0, offering you a cute, bouncy
 [![License](https://img.shields.io/cocoapods/l/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
 [![Platform](https://img.shields.io/cocoapods/p/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
 
+[![GitHub](https://img.shields.io/badge/GitHub-cyhuang1230-blue.svg?style=flat)](http://cyhuang1230.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chuen--Yu%20Huang-blue.svg?style=flat)](https://tw.linkedin.com/in/cyhuang1230)
+[![Email](https://img.shields.io/badge/Email-denny.cyhuang1230%40gmail.com-blue.svg)](mailto:denny.cyhuang1230+CYHPOPImageButton@gmail.com?SUBJECT=[CYHPOPImageButton])
+
 ![DemoGif](https://raw.githubusercontent.com/cyhuang1230/cyhuang1230.github.io/master/CYHPOPImageButtonDemo.gif)
 
 ## Try it!
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-* Icon credit: [Google Material icons](https://www.google.com/design/icons/)
+
+Icon credit: [Google Material icons](https://www.google.com/design/icons/)
 
 ## Requirements
 
@@ -21,7 +26,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-CYHPOPImageButton is available through [CocoaPods](http://cocoapods.org). To install
+*CYHPOPImageButton* is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
@@ -41,19 +46,22 @@ import CYHPOPImageButton
 ```
 
 ### 2. Add CYHPOPImageButton to your app.
-Apart from a new initailizer`init(image: UIImage)`, CYHPOPImageButton works as same as UIButton.
+Apart from a new initailizer`init(image: UIImage)`, *CYHPOPImageButton* works as same as *UIButton*.
+
+*CYHPOPImageButton* will accommodate itself to the size of the UIImage you provided.
 
 ```swift
 let btn = CYHPOPImageButton(image: UIIMAGE_VARIABLE)
 view.addSubview(btn)
 ```
 
-### That's All!
+### 3. That's All!
 
 ## Author
 
-Hi! I'm Chien-Yu Huang, currently studying CS in National Chiao Tung University(NCTU;國立交通大學), Taiwan.
-This is my first open source project, feel free to contact me `bigexplorations+CYHPOPImageButton[at]gmail.com`! Thanks :)
+Hi! I'm Chien-Yu Huang, currently studying CS in National Chiao Tung University (NCTU; 國立交通大學), Taiwan.
+
+This is my first open source project, feel free to contact me at `denny.cyhuang1230[at]gmail.com`! Thanks :)
 
 
 ## License

@@ -13,7 +13,7 @@ s.version          = "1.0.0"
 s.summary          = "A cute, bouncy image iOS button (Messenger sticker-alike) implemented with Facebook pop."
 s.homepage         = "https://github.com/cyhuang1230/CYHPOPImageButton"
 s.license          = 'MIT'
-s.author           = { "Chien-Yu Huang" => "bigexplorations@gmail.com" }
+s.author           = { "Chien-Yu Huang" => "denny.cyhuang1230@gmail.com" }
 s.source           = { :git => "https://github.com/cyhuang1230/CYHPOPImageButton.git", :tag => s.version.to_s }
 
 s.platform     = :ios, '8.0'
