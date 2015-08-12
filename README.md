@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
 [![License](https://img.shields.io/cocoapods/l/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
 [![Platform](https://img.shields.io/cocoapods/p/CYHPOPImageButton.svg?style=flat)](http://cocoapods.org/pods/CYHPOPImageButton)
-[![Platform](https://img.shields.io/badge/Published-08%2F12%2F15-red.svg?style=flat)](https://github.com/cyhuang1230/CYHPOPImageButton)
+[![Published](https://img.shields.io/badge/Published-08%2F12%2F15-red.svg?style=flat)](https://github.com/cyhuang1230/CYHPOPImageButton)
 
 CYHPOPImageButton is a library written in Swift 2.0, offering you a cute, bouncy image iOS button (Facebook Messenger stickers-alike), implemented with Facebook [pop](https://github.com/facebook/pop).
 
